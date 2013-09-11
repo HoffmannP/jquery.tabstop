@@ -1,0 +1,28 @@
+{
+    "name": "tabstop",
+    "version": "1",
+    "title": "tabStop",
+    "author": {
+        "name": "Berengar W. Lehr",
+        "email": "Hoffmann.P@gmx.net"
+    },
+    "licences": {
+        "type": "MIT",
+        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+    },
+    "dependencies": {
+        "jquery": ">=1.5"
+    },
+    "description": "returns the next (or previous) 'focusable' element according to HTML5.",
+    "keywords": [
+        "tabstop",
+        "focus",
+        "focusable",
+        "tabindex",
+        "tabulator",
+        "navigate",
+        "activeElement"
+    ],
+    "homepage": "github…",
+    "bugs": "none"
+}
