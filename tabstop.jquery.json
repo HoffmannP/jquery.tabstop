@@ -8,7 +8,7 @@
     },
     "licences": {
         "type": "MIT",
-        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        "url": "https://github.com/HoffmannP/jquery.tabstop/blob/master/LICENCE"
     },
     "dependencies": {
         "jquery": ">=1.5"
@@ -23,6 +23,6 @@
         "navigate",
         "activeElement"
     ],
-    "homepage": "github…",
-    "bugs": "none"
+    "homepage": "https://github.com/HoffmannP/jquery.tabstop",
+    "bugs": "https://github.com/HoffmannP/jquery.tabstop/issues"
 }
