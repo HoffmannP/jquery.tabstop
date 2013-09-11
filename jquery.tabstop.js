@@ -23,7 +23,7 @@ Please, feel free to upgrade the selectors to eradicate this blemish!
             return b.getAttribute('tabindex') - a.getAttribute('tabindex');
         }).concat(
             // especially link-elements in the header should not be included
-            $('body').find(optIn).Focusablenot(optOutFocusable).get()
+            $('body').find(optInFocusable).not(optOutFocusable).get()
         );
         // does NOT focus itself, just returns the element
         return $(focusable[
